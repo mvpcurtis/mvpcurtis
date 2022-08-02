@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Curtis</h1>
+<p align="center"><a href="#">Portfolio</a> | <a href="#">Linkedin</a> | <a href="#">Twitter</a></p>
 
 <!--
 **mvpcurtis/mvpcurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
