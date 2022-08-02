@@ -1,11 +1,4 @@
-<style>
-    #id {
-        width: 200px;
-        border-radius: 50%;
-    }
-</style>
-
-<div align="center"><img id="logo" src="https://avatars.githubusercontent.com/u/16779611?v=4"></div>
+<div align="center"><img width="200px" src="https://avatars.githubusercontent.com/u/16779611?v=4"></div>
 <h1 align="center">Hi, I'm Curtis</h1>
 <p align="center">A passionette web-developer from the UK.</p>
 <p align="center"><a href="#">Portfolio</a> | <a href="#">Linkedin</a> | <a href="#">Twitter</a></p>
