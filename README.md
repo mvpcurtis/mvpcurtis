@@ -1,6 +1,4 @@
-# I'm Curtis Bowen
----
-### A passionette web-developer from the UK.
+<h1 align="center">Hi, I'm Curtis</h1>
 
 <!--
 **mvpcurtis/mvpcurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
