@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: He/Him.
-- 🌱 I’m currently learning anything and everything.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, SaaS and TypeScript. I plan on moving into React once I'm comfortable with JavaScript.
 - 📫 How to reach me: curtis.bowen@mail.com.
-- ⚡ Fun fact: I love Dragon Ball.
+- ⚡ Fun fact about me: I really enjoy watching anything and everything regarding Dragon Ball!
 
