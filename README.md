@@ -4,5 +4,5 @@
 <p align="center"><a href="https://curtisbowen.xyz/">Portfolio</a> | <a href="https://www.linkedin.com/in/curtisbowen/">Linkedin</a> | <a href="#">X</a></p>
 
 - 🌱 I'm currently on a journey to become a frontend web developer.
-- 📫 How to reach me: curtis.bowen@mail.com.
-- ⚡ Fun fact about me: I favourite series is Sons of Anarchy.
+- 📫 How to reach me: <strong>coming soon</strong>.
+- ⚡ Fun fact about me: My favourite series is Sons of Anarchy.
